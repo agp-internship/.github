@@ -1,6 +1,14 @@
-## Hi there 👋
+## ASR Gooyesh Pardaz Internship Orgranization
 
-More, Soon...
+You can checkout our interesting internship projects result here in this orgranization. You may find more details about each project in its repository or the [agp-internship.github.io](https://agp-internship.github.io).
+
+🌈 Star these reposiories if you find them fun.
+
+🙋‍♀️ Open an issue if you have any comments about them.
+
+:heart: Feel free to open a pull request addding your feature to each of them. We'll be more than happy to accept them.
+
+
 <!--
 
 **Here are some ideas to get you started:**
